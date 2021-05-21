@@ -55,7 +55,7 @@ export default function Home({ results }) {
       <Navbar />
       <div className="py-10">
         <main>
-          <div className="max-w-7xl mx-auto sm:px-6 lg:px-8"></div>
+          <div className="max-w-7xl mx-auto sm:px-6 lg:px-8">Le contenu</div>
         </main>
       </div>
     </div>
